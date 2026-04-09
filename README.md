@@ -9,5 +9,5 @@ Este proyecto académico explora los pilares fundamentales de la POO, integrando
 # Tecnologías Utilizadas
 **Documentación:** HTML
 
-**Paginas web:** claude
+**Paginas web:** https://dreamy-medovik-e85e59.netlify.app/
 
