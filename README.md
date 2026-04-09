@@ -6,4 +6,7 @@ Este proyecto académico explora los pilares fundamentales de la POO, integrando
 -Mateo Valdivieso
 
 -Jean Paul Aguilar
-# Presentacion
+# Tecnologías Utilizadas
+**Documentación:** HTML
+**Paginas web:** claude
+
