@@ -8,5 +8,6 @@ Este proyecto académico explora los pilares fundamentales de la POO, integrando
 -Jean Paul Aguilar
 # Tecnologías Utilizadas
 **Documentación:** HTML
+
 **Paginas web:** claude
 
