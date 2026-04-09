@@ -1,6 +1,8 @@
 # Programacion-orientada-a-objetos
 # Integrantes
 -César Arias
--Bananin Diff
--Machaleño
+
+-Mateo Valdivieso
+
+-Jean Paul Aguilar
 # Presentacion
