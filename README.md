@@ -386,3 +386,6 @@ Reporte Final
 El objetivo de este proyecto es fortalecer el aprendizaje de Programación Orientada a Objetos mediante la implementación de un sistema funcional que utilice clases, herencia, arreglos, listas dinámicas, validaciones y control de procesos.
 
 ---
+# Realizamos la revision al grupo 1:
+
+No tuvo errores
